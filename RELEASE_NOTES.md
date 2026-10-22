@@ -9,7 +9,7 @@
 - Preserves the collector, parsing, data limits, default feeds, optional checks, JSON/CSV/TXT outputs and report folder from v0.1.0.
 - Adds regression tests covering artwork identity and report portability.
 
-The repository link is prepared, not evidence that the GitHub repository has been published.
+**Source repository:** [Hellfire13666/venomrose-proxy-foundry-2026](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026). The downloadable v0.1.1 release includes the Visual Edition ZIP and SHA256 checksum.
 
 ## Original artwork fingerprint
 
