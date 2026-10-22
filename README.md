@@ -4,13 +4,13 @@
 
 **OFFICIAL ARTWORK · VISUAL EDITION:** The image above is the approved original PNG, copied byte-for-byte. Its interface values are illustration, not live feed results. The offline HTML reports also embed this exact artwork and show actual collection metrics separately.
 
-**Prepared official repository:** [Hellfire13666/venomrose-proxy-foundry-2026](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026) (available after publication).
+**Official public repository:** [Hellfire13666/venomrose-proxy-foundry-2026](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026).
 
 **GlitchByte Phantom Labs · v0.1.1 · Python 3.10+ · Ubuntu/Linux**
 
 > The web has thorns. VENOMROSE collects public proxy listing feeds, sorts signals, finds overlap, and forges colorful local intelligence reports.
 
-**Independent workshop identity:** black velvet · poison lime `#B6FF00` · deep rose `#FF4382` · gunmetal · chrome thorns. A separate tool, folder, report vault, and future GitHub repository from WOLF FANG.
+**Independent workshop identity:** black velvet · poison lime `#B6FF00` · deep rose `#FF4382` · gunmetal · chrome thorns. A separate tool, folder, report vault, and GitHub repository from WOLF FANG.
 
 ## ⚡ Quick launch: paste into an Ubuntu terminal
 
@@ -125,4 +125,4 @@ Public relays can log requests, alter responses, vanish without warning, or have
 
 ## Repository identity
 
-**Prepared repository:** `Hellfire13666/venomrose-proxy-foundry-2026`. The ZIP does not publish or change GitHub. See `GITHUB_GUIDE.md` for publication steps.
+**Public repository:** [Hellfire13666/venomrose-proxy-foundry-2026](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026). The ZIP does not publish or change GitHub. The v0.1.1 release includes an archived tool package and SHA256 verification file; view its publication status on the [Releases page](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026/releases). See `GITHUB_GUIDE.md` for repository maintenance.
