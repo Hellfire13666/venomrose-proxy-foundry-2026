@@ -1,0 +1,6 @@
+# VENOMROSE import format (examples only, not actual proxy hosts)
+# http://IPv4:port
+# socks4://IPv4:port
+# socks5://IPv4:port
+# http://[IPv6]:port
+# Public IP addresses only; the synthetic demo is available via --demo.
