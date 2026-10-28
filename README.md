@@ -1,5 +1,9 @@
 # 🥀 VENOMROSE // PROXY FOUNDRY
 
+<!-- GLITCHBYTE-VISITOR-BADGE:START -->
+[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fvenomrose-proxy-foundry-2026&count_bg=%23FF1493&title_bg=%23080808&icon=&icon_color=%23FFFFFF&title=PAGE+VIEWS&edge_flat=false)](https://github.com/Hellfire13666/venomrose-proxy-foundry-2026)
+<!-- GLITCHBYTE-VISITOR-BADGE:END -->
+
 ![VENOMROSE exact approved command-center artwork](assets/venomrose-command-center-ORIGINAL.png)
 
 **OFFICIAL ARTWORK · VISUAL EDITION:** The image above is the approved original PNG, copied byte-for-byte. Its interface values are illustration, not live feed results. The offline HTML reports also embed this exact artwork and show actual collection metrics separately.
